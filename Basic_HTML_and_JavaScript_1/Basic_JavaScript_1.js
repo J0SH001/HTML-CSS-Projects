@@ -1,6 +1,1 @@
-<!DOCTYPE html>
-<html lang = "en">
-	<script>
-	alert("Hello, World!");
-	</script>
-</html>
+alert("Hello, World! I'm an alert box!");
