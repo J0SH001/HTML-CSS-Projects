@@ -40,7 +40,7 @@ h1{
     transition: transform .5s ease-in-out;
 }
 
-.squares:nth-child(-n+4){
+.squares:nth-child(-n+4) p{
    font-family: "Helvecta Neue", Helvetica, Arial, sans-serif;
    font-size: 1.5em;
    font-weight: 900;
