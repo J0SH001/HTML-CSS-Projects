@@ -1,0 +1,63 @@
+#Home p {
+    font-family: 'Arial', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    background: #fff;
+}
+
+#Home h1 {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    background: #fff;
+}
+#Home {
+    background: url(../Black_Beard.jpg) no-repeat 50% 50%;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top: 350px; /* This is spacer before the Main title Logo */
+    padding-bottom: 500px; /* This is spacer after the Main title Logo */
+    color: black;
+}
+
+nav {
+    display: block;
+}
+
+#Video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#Contact form {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#Contact form [type="submit"] {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    width: 70%;
+    border: 1px solid #808080;
+    margin: 2% auto;
+    border-radius: 7px;
+    background: rgb(227, 222, 222);
+    box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.3);
+    font-family: 'Raleway', sans-serif;  
+    cursor: pointer;
+}
+
+footer {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
